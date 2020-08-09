@@ -7,6 +7,7 @@ public class Deneme {
 		System.out.println("Ikinci satir kodum");
 		System.out.println("remote degisiklik");
 		System.out.println("Ben Mehmet");
+		System.out.println("Cakisma - Mehmet");
 
 	}
 
